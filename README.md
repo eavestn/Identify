@@ -4,7 +4,7 @@ Identify is a simple, open-source .Net 4.5 .dll for retrieving unique identifyin
 
 ### Can't This Be Done In C++
 
-Yes. Absolutely. However, sometimes it's just easier - and maybe more fun - to have this "stuff" written in C#.
+Yes. Absolutely. However, sometimes it's just easier - and maybe more fun - to have this "stuff" written in C#. Really, the only motivation behind this project was to have this written in C#.
 
 ### Tell Me The Deets
 
