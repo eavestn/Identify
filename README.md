@@ -18,7 +18,7 @@ This is meant to make inclusion in your project a bit simpler; however, you have
 
 ### Always Room For Improvement
 
-That may really be the case. You may have a better approach than I do. If you have the time to make it better, please feel free to contribute changes. As I mentioned, above, you have access to the source. 
+That may really be the case. You may have a better approach than I do. If you have the time to make it better, please feel free to contribute changes. As I mentioned, above, you have access to the source. For a very high-level project road map, consult the project's [Wiki](https://github.com/eavestn/Identify/wiki). The wiki will, of course, evolve over the life of the project. 
 
 ### Windows Support 
 
