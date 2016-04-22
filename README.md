@@ -14,7 +14,7 @@ Much of the code for this solution is derived from Microsoft's [Local File Syste
 
 This is meant to make inclusion in your project a bit simpler; however, you have access to the code. If grabbing the source is easier - or, if you want to use the source to expand upon - do it. 
 
-## Your Solution Sucks
+## This Solution Sucks
 
 That may really be the case. If you have the time to make it better, please feel free to contribute changes. As I mentioned, above, you have access to the source. 
 
