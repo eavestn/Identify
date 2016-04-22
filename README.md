@@ -5,3 +5,5 @@ Identify is a simple, open-source .Net 4.5 .dll for retrieving unique identifyin
 Yes. Absolutely. However, sometimes it's just easier - and maybe more fun - to have this "stuff" written in C#.
 
 ## Okay. I Believe You. Tell Me The Deets
+
+## Known Limitations
