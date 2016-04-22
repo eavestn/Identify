@@ -10,7 +10,7 @@ Yes. Absolutely. However, sometimes it's just easier - and maybe more fun - to h
 
 Much of the code for this solution is derived from Microsoft's [Local File System](https://msdn.microsoft.com/en-us/library/windows/desktop/aa364407(v=vs.85).aspx) documentation, specifically [Directory Management](https://msdn.microsoft.com/en-us/library/windows/desktop/bb540529(v=vs.85).aspx) and [File Management](https://msdn.microsoft.com/en-us/library/windows/desktop/bb540531(v=vs.85).aspx). The solution takes advantage of the handles received as a result of the cheap `FILE_CREATE` function exposed by Microsoft. The process for retrieving a handle for a file on the file system is relatively straigtforward; however, for a directory it requires a bit more documentation digging (nothing too advanced). 
 
-There are a number of different approaches to grabbing unique file-identifying information from the file system on the interwebs;  however; there is less information how to implement a solution to do so for directories, themselves. The solution for grabbing unique directory-identifying information is more unique to this project and I wanted to share the approach in hopes of improving it.
+There are a number of different approaches to grabbing unique file-identifying information from the file system on the interwebs;  however; there is less information how to implement a solution to do so for directories, themselves. The _solution for grabbing unique directory-identifying information is more unique to this project_ and I wanted to share the approach in hopes of improving it.
 
 ### Why a .dll? 
 
